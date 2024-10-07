@@ -1,0 +1,31 @@
+
+/* bootstrap overides */
+body{
+    background-color: #EFFFED;
+
+}
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+#navcolor{
+    background-color: #1C110A;
+}
+#showcase-color{
+    background-color: #E4D6A7;
+}
+
+#border{
+    border: solid red 5px;
+}
+
+#newsletter-color{
+    background-color: #C44900;
+}
+
+#map{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
